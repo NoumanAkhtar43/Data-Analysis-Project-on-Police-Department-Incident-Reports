@@ -16,5 +16,4 @@ I did analysis to determine:
 6. Is there a correlation between the latitude/longitude of each crime and the type of crime committed?
 7. What is the percentage of cases in which an outcome has been determined overall?
 8. Is there any variation in the distribution of crime types across different parts of each neighborhood?
-
-9- Drawing Demographics and finding any relevance thru correlation matrix.
+9. Drawing Demographics and finding any relevance thru correlation matrix.
